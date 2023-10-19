@@ -9,6 +9,7 @@ graph LR
     A -- data/link --> E[Software]
 ```
 
+
 Embedded systems have been redefining our everyday experiences from appliances in our homes to the leading-edge technology used in industries. These computer systems, with a dedicated function within a larger mechanical or electrical system, have become a fundamental part of our digital fabric. Central to these innovations is the role of an embedded system architect — the visionary and technical expert behind these intricate combinations of hardware and software elements. 
 
 An embedded system architect boasts a multidimensional role that encompasses various aspects, from developing software for embedded computing systems to creating problem-solving algorithms and managing diverse project requirements. Despite the sheer complexity and diversity of the work, its essence lies in designing efficient, reliable, and robust systems that can perform a dedicated function in real-time.
