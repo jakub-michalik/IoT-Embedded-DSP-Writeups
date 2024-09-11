@@ -18,3 +18,5 @@ flowchart TB
 * [Developing a Low Pass Filter in Rust: A Dive into Decoupled Design](DevelopingLowPassFilterInRust.md) (~5 minutes of reading; 20.10.23)
 * [Securing IoT Devices with Rust: Best Practices and Strategies](SecuringIotDevicesWithRust.md) (~5 minutes of reading; 16.10.23)
 * [Understanding Power Constraints in IoT](UnderstandingPowerConstraintsInIot.md) (~7 minutes of reading; 09.09.24)
+* [Exploring Advanced Concurrency Patterns in Rust for Embedded Systems](ExploringAdvancedConcurrencyPatternsInRust.md) (~7 minutes of reading; 11.09.24)
+)
