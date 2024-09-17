@@ -20,6 +20,9 @@ flowchart TB
 * [Understanding Power Constraints in IoT](UnderstandingPowerConstraintsInIot.md) (~7 minutes of reading; 09.09.24)
 * [Exploring Advanced Concurrency Patterns in Rust for Embedded Systems](ExploringAdvancedConcurrencyPatternsInRust.md) (~7 minutes of reading; 11.09.24)
 * [Optimizing Memory Usage in Rust for Embedded Systems](OptimizingMemoryUsageInRust.md) (~6 minutes of reading; 13.09.24)
+* [Mastering Interrupt-Driven Design in Embedded Systems with Rust](MasteringInterrupt-DrivenDesignWithRust.md) (~10 minutes of reading; 17.09.24)
+
+
 
 
 
