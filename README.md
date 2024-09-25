@@ -23,7 +23,7 @@ flowchart TB
 * [Mastering Interrupt-Driven Design in Embedded Systems with Rust](MasteringInterrupt-DrivenDesignWithRust.md) (~10 minutes of reading; 17.09.24)
 * [Harnessing the Power of DSP in Embedded Systems](HarnessingThePowerOfDSP.md) (~8 minutes of reading; 18.09.24)
 * [Leveraging DSP Intrinsics in Rust for High-Performance Embedded Applications](LeveragingDspIntrinsicsInRust.md) (~8 minutes of reading; 23.09.24)
-
+* [Integrating Rust with Real-Time Operating Systems (RTOS) in Embedded Systems]([IntegratingRustWithRealTimeOperatingSystems.md) (10 minutes of reading; 25.09.24)
 
 
 
