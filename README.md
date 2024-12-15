@@ -25,6 +25,7 @@ flowchart TB
 * [Leveraging DSP Intrinsics in Rust for High-Performance Embedded Applications](LeveragingDspIntrinsicsInRust.md) (~8 minutes of reading; 23.09.24)
 * [Integrating Rust with Real-Time Operating Systems (RTOS) in Embedded Systems](IntegratingRustWithRealTimeOperatingSystems.md) (10 minutes of reading; 25.09.24)
 * [Getting Started with TinyML in Rust](GettingStartedWithTinyMLInRust.md) (10 minutes of reading; 10.12.24)
+* [Comparing Edge ML Frameworks for Rust](ComparingEdgeMlFrameworksForRust.md) (9 minutes of reading; 15.12.24)
 
 
 ## In research:
