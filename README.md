@@ -26,6 +26,7 @@ flowchart TB
 * [Integrating Rust with Real-Time Operating Systems (RTOS) in Embedded Systems](IntegratingRustWithRealTimeOperatingSystems.md) (10 minutes of reading; 25.09.24)
 * [Getting Started with TinyML in Rust](GettingStartedWithTinyMLInRust.md) (10 minutes of reading; 10.12.24)
 * [Comparing Edge ML Frameworks for Rust](ComparingEdgeMlFrameworksForRust.md) (9 minutes of reading; 15.12.24)
+* [Optimizing Model Inference Performance and Memory Footprint in Rust](OptimizingModelInferencePerformanceAndMemoryFootprintInRust.md) (7 minutes of reading; 26.12.24)
 
 
 ## In research:
