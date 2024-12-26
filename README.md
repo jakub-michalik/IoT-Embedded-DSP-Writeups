@@ -33,7 +33,6 @@ flowchart TB
 I’m currently exploring a series of research topics centered around bringing machine learning to embedded systems using Rust. These include: getting started with TinyML and Rust toolchains, comparing various edge ML frameworks, optimizing model performance and memory usage, incorporating hardware accelerators, achieving real-time inference under RTOS constraints, bolstering security and privacy in on-device ML, and employing advanced debugging and profiling strategies. Each area aims to uncover best practices, tools, and techniques for efficiently and safely running machine learning models on resource-limited, Rust-based embedded platforms.
 
 Some of the topics that could apear in some months:
-* Optimizing Model Inference Performance and Memory Footprint in Rust
 * Integrating Hardware Acceleration for TinyML in Rust
 * Ensuring Real-Time and Low-Latency Inference with Rust and RTOS
 * Debugging and Profiling TinyML Applications in Rust
