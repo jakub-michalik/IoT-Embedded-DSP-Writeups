@@ -28,7 +28,7 @@ flowchart TB
 * [Comparing Edge ML Frameworks for Rust](ComparingEdgeMlFrameworksForRust.md) (9 minutes of reading; 15.12.24)
 * [Optimizing Model Inference Performance and Memory Footprint in Rust](OptimizingModelInferencePerformanceAndMemoryFootprintInRust.md) (7 minutes of reading; 26.12.24)
 * [Integrating Hardware Acceleration for TinyML in Rust](IntegratingHardwareAccelerationForTinyMLInRust.md) (7 minutes of reading; 31.12.24)
-
+* [Ensuring Real-Time and Low-Latency inference with rust and RTOS](EnsuringReal-TimeAndLow-LatencyInferenceWithRustAndRTOS.md) (7 minutes of reading; 09.12.24)
 
 
 ## In research:
