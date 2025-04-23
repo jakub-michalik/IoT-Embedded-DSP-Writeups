@@ -31,6 +31,7 @@ flowchart TB
 * [Ensuring Real-Time and Low-Latency inference with rust and RTOS](EnsuringReal-TimeAndLow-LatencyInferenceWithRustAndRTOS.md) (7 minutes of reading; 09.12.24)
 * [Securing On-Device Machine Learning in Rust](SecuringOnDeviceMLInRust.md) (~9 minutes of reading; 17.02.25)
 * [Building an End-to-End TinyML Pipeline in Rust](BuildingAnEndToEndTinyMLPipelineInRust.md) (~9 minutes of reading; 11.03.25)
+* [Power Management Strategies for TinyML Applications in Rust](PowerManagementForTinyMLInRust.md) (~8 minutes of reading; 23.04.25)
 
 
 ## In research:
