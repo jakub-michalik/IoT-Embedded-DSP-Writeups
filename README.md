@@ -32,6 +32,7 @@ flowchart TB
 * [Securing On-Device Machine Learning in Rust](SecuringOnDeviceMLInRust.md) (~9 minutes of reading; 17.02.25)
 * [Building an End-to-End TinyML Pipeline in Rust](BuildingAnEndToEndTinyMLPipelineInRust.md) (~9 minutes of reading; 11.03.25)
 * [Power Management Strategies for TinyML Applications in Rust](PowerManagementForTinyMLInRust.md) (~8 minutes of reading; 23.04.25)
+* [Anomaly Detection at the Edge with Rust and TinyML](AnomalyDetectionAtTheEdgeWithRust.md) (~8 minutes of reading; 14.05.25)
 
 
 ## In research:
