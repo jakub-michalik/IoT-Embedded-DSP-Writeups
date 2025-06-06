@@ -33,6 +33,7 @@ flowchart TB
 * [Building an End-to-End TinyML Pipeline in Rust](BuildingAnEndToEndTinyMLPipelineInRust.md) (~9 minutes of reading; 11.03.25)
 * [Power Management Strategies for TinyML Applications in Rust](PowerManagementForTinyMLInRust.md) (~8 minutes of reading; 23.04.25)
 * [Anomaly Detection at the Edge with Rust and TinyML](AnomalyDetectionAtTheEdgeWithRust.md) (~8 minutes of reading; 14.05.25)
+* [Over-the-Air Model Updates for Embedded Rust Systems](OtaModelUpdatesForEmbeddedRust.md) (~9 minutes of reading; 07.06.25)
 
 
 ## In research:
