@@ -1,4 +1,7 @@
 # IoT-Embedded-DSP-Writeups
+
+[![Sphinx Build](https://img.shields.io/badge/docs-Sphinx-green)](https://jakub-michalik.github.io/IoT-Embedded-DSP-Writeups/)
+
 A treasure-trove of explorations focused on the IoT, embedded systems, and DSP. Here, we break down intricate concepts, explore the use of Rust in IoT, and highlight trends. It's an enlightening ride for developers and tech enthusiasts alike.
 
 ```mermaid
@@ -35,6 +38,13 @@ flowchart TB
 * [Anomaly Detection at the Edge with Rust and TinyML](AnomalyDetectionAtTheEdgeWithRust.md) (~8 minutes of reading; 14.05.25)
 * [Over-the-Air Model Updates for Embedded Rust Systems](OtaModelUpdatesForEmbeddedRust.md) (~9 minutes of reading; 07.06.25)
 * [Rust on STM32: Practical Peripherals, HAL Abstractions, and the H7](RustOnSTM32PracticalPeripherals.md) (~9 minutes of reading; 26.07.25)
+* [Rust on nRF52: BLE, Low-Power Modes, and the Embassy Async Runtime](RustOnnRF52BLEAndLowPower.md) (~8 minutes of reading; 09.08.25)
+* [Thread and Matter: The New IoT Connectivity Stack and Where Rust Fits](ThreadAndMatterTheNewIoTStack.md) (~9 minutes of reading; 19.09.25)
+* [nRF54 and Ultra-Low Power Embedded Rust: Reaching 30µA and Below](nRF54UltraLowPowerEmbeddedRust.md) (~9 minutes of reading; 31.10.25)
+* [CAN Bus with STM32 in Rust: Industrial Communication for Embedded Systems](CANBusWithSTM32InRust.md) (~9 minutes of reading; 15.11.25)
+* [IoT Platforms in Practice: ThingsBoard, Data Pipelines, and Connecting Embedded Rust to the Cloud](IoTPlatformsThingsBoardAndEmbeddedRust.md) (~9 minutes of reading; 28.12.25)
+* [C++ in Embedded Systems: Power, Pitfalls, and When to Use It](CppInEmbeddedSystems.md) (~9 minutes of reading; 19.01.26)
+* [Debugging and Profiling TinyML Applications in Rust](DebuggingAndProfilingTinyMLApplicationsInRust.md) (~8 minutes of reading; 24.02.26)
 
 
 ## In research:
@@ -42,7 +52,6 @@ flowchart TB
 I’m currently exploring a series of research topics centered around bringing machine learning to embedded systems using Rust. These include: getting started with TinyML and Rust toolchains, comparing various edge ML frameworks, optimizing model performance and memory usage, incorporating hardware accelerators, achieving real-time inference under RTOS constraints, bolstering security and privacy in on-device ML, and employing advanced debugging and profiling strategies. Each area aims to uncover best practices, tools, and techniques for efficiently and safely running machine learning models on resource-limited, Rust-based embedded platforms.
 
 Some of the topics that could apear in some months:
-* Debugging and Profiling TinyML Applications in Rust
  
 
 
