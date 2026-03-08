@@ -45,6 +45,7 @@ flowchart TB
 * [IoT Platforms in Practice: ThingsBoard, Data Pipelines, and Connecting Embedded Rust to the Cloud](IoTPlatformsThingsBoardAndEmbeddedRust.md) (~9 minutes of reading; 28.12.25)
 * [C++ in Embedded Systems: Power, Pitfalls, and When to Use It](CppInEmbeddedSystems.md) (~9 minutes of reading; 19.01.26)
 * [Debugging and Profiling TinyML Applications in Rust](DebuggingAndProfilingTinyMLApplicationsInRust.md) (~8 minutes of reading; 24.02.26)
+* [EU Cyber Resilience Act and What It Means for IoT Firmware Engineers](EuCyberResilienceActAndIoTFirmware.md) (~9 minutes of reading; 08.03.26)
 
 
 ## In research:
