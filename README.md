@@ -48,6 +48,7 @@ flowchart TB
 * [EU Cyber Resilience Act and What It Means for IoT Firmware Engineers](EuCyberResilienceActAndIoTFirmware.md) (~9 minutes of reading; 08.03.26)
 * [ETSI EN 303 645: Navigating Europe's Consumer IoT Security Standard](ETSI303645ConsumerIoTSecurity.md) (~9 minutes of reading; 16.03.26)
 * [IEC 62443 for Industrial IoT: Certification Pathways and Practical Compliance](IEC62443IndustrialIoTCertification.md) (~10 minutes of reading; 23.03.26)
+* [Radio Equipment Directive: The New Cybersecurity Requirements for IoT Devices](RadioEquipmentDirectiveCybersecurityIoT.md) (~9 minutes of reading; 29.03.26)
 
 
 ## In research:
