@@ -50,6 +50,7 @@ flowchart TB
 * [IEC 62443 for Industrial IoT: Certification Pathways and Practical Compliance](IEC62443IndustrialIoTCertification.md) (~10 minutes of reading; 23.03.26)
 * [Radio Equipment Directive: The New Cybersecurity Requirements for IoT Devices](RadioEquipmentDirectiveCybersecurityIoT.md) (~9 minutes of reading; 29.03.26)
 * [Building a Secure-by-Design IoT Product for the European Market](SecureByDesignIoTForEuropeanMarket.md) (~10 minutes of reading; 01.04.26)
+* [STM32H7R/S: A 600 MHz STM32 That Expects You to Bring Your Own Memory](STM32H7RSExternalMemoryAndGui.md) (~4 minutes of reading; 05.05.26)
 
 
 ## In research:
