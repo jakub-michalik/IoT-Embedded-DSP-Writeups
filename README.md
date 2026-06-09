@@ -55,6 +55,7 @@ flowchart TB
 * [What ST Showed at Embedded World 2026: AI Creeping Onto the MCU](EmbeddedWorld2026StHighlights.md) (~3 minutes of reading; 19.05.26)
 * [Nordic's nRF54L15 Connect Kit: Bluetooth LE 6.0 and a RISC-V Sidekick](Nrf54L15ConnectKitBle6.md) (~4 minutes of reading; 26.05.26)
 * [Nordic's nRF54LM20: an NPU Lands on a Bluetooth SoC](Nrf54Lm20NordicNpuWirelessSoc.md) (~4 minutes of reading; 02.06.26)
+* [Embedded Rust in 2026: Embassy Is Just the Default Now (Even on the nRF52)](EmbeddedRust2026EmbassyDefault.md) (~4 minutes of reading; 09.06.26)
 
 
 ## In research:
